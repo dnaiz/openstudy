@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Open Study</title>
-    <link>http://openstudy.vercel.app/categories/</link>
+    <link>https://openstudy.vercel.app/categories/</link>
     <description>Recent content in Categories on Open Study</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://openstudy.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://openstudy.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
