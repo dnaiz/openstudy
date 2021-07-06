@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Open Study</title>
     <link>https://openstudy.vercel.app/</link>
     <description>Recent content on Open Study</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://openstudy.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jul 2021 00:50:54 +0200</lastBuildDate><atom:link href="https://openstudy.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>إمتحانات 6 - 2021</title>
+      <link>https://openstudy.vercel.app/posts/072021/</link>
+      <pubDate>Sun, 04 Jul 2021 00:50:54 +0200</pubDate>
+      
+      <guid>https://openstudy.vercel.app/posts/072021/</guid>
+      <description> تحميل جميع المواد (ملف مضغوط) رياضة 1 رياضة 2 الجبر الخطي الذكاء الاصطناعي (الصفحة الأولى) الذكاء الاصطناعي (الصفحة الثانية) تصميم منطقي (الصفحة الأولى) تصميم منطقي (الصفحة الثانية) وسائط متعددة تنقيب بيانات معمارية الحاسوب هندسة البرمجيات (الصفحة الأولى) هندسة البرمجيات (الصفحة الثانية) الثقافة الإسلامية أ الثقافة الإسلامية ب أساسيات الشبكات نظم تشغيل (الصفحة الأولى) نظم تشغيل (الصفحة الثانية) الإحصاء و اﻹحتمالات (الصفحة الأولى) الإحصاء و اﻹحتمالات (الصفحة الثانية) أمن المعلومات أمن الشبكات (الصفحة الأولى) أمن الشبكات (الصفحة الثانية) النمذجة و المحاكاة مصمم المترجمات  </description>
+    </item>
+    
   </channel>
 </rss>
